@@ -5,7 +5,7 @@
   <img height=110em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedromelo&theme=dark&show_icons=true&layout=compact"/>
  </div>
  <br>
-## Linguagens e Ferramentas:
+<h3>Linguagens e Ferramentas:</h3>
 <br>
   <div align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

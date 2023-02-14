@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-End💻</h3>
 <div align="center">
 <img height=180em align="left" src="https://github-readme-stats.vercel.app/api?username=devpedromelo&theme=dark&show_icons=true&layout=compact"/>
-<img height=180em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedromelo&theme=dark&show_icons=true&layout=compact"/>
+<img height=110em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedromelo&theme=dark&show_icons=true&layout=compact"/>
  </div>
 ## Linguagens e Ferramentas:
   <div align="center">
